@@ -956,5 +956,17 @@
     <br />
     <sub>Usman Yousaf</sub>
 <!-- End of column-79 -->
+<!-- Start of column-80 -->
+<td align="center">
+  <a href="https://github.com/tousif12">
+    <img
+      src="https://avatars.githubusercontent.com/u/10029089?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Tousif Noor</sub>
+  </a>
+</td>
+<!-- End of column-80 -->
 </tr>
 </table>
